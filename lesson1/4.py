@@ -5,4 +5,4 @@ while i in range(len(n)):
     if int(n[i]) > m:
         m = int(n[i])
     i += 1
-print('Максимальное число:', m
+print('Максимальное число:', m)

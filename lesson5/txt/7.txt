@@ -1,0 +1,4 @@
+mail ООО 7000 500
+yandex OOO 8000 100
+google OOO 7500 200
+zzz OOO 2300 5400
